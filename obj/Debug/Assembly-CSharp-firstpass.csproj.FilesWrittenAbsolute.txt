@@ -1,0 +1,17 @@
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/kamilchmurzynski/Documents/Tanks/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/kamilchmurzynski/Documents/Tanks/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/UnityEngine.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/UnityEditor.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kamilchmurzynski/Documents/Tanks/Temp/bin/Debug/Mono.Cecil.Mdb.dll
