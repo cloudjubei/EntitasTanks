@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Entitas/EntitasMainScene.unity
-  isLoaded: 1
-  isActive: 1
